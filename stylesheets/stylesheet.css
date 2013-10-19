@@ -188,6 +188,25 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
+.live-demo {
+  text-align: center;
+}
+
+.live-demo textarea {
+  font-size: 1.6em;
+  padding: .4em;
+  line-height: 1.4em;
+  outline: none;
+  font-family: inherit;
+  box-sizing: border-box;
+  resize: none;
+  overflow-y: hidden;
+  width: 50%;
+  border-radius: 2px 2px 0 2px;
+  border-color: #999;
+  box-shadow: 3px 3px 0 0px #AAA;
+  color: #333;
+}
 
 /* COMMON STYLES */
 
