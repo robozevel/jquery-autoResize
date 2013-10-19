@@ -21,10 +21,6 @@ Which is equivalent to:
 $(document).autoResize("textarea");
 ```
 
-## Supports
-* jQuery 1.7+
-* Zepto
-
 ## Further reading
  [Expanding textareas the easy and clean way
-](http://phaistonian.pblogs.gr/expanding-textareas-the-easy-and-clean-way.html) by [George Papadakis](https://github.com/phaistonian‎)
+](http://phaistonian.pblogs.gr/expanding-textareas-the-easy-and-clean-way.html) by [George Papadakis](https://github.com/phaistonian)
